@@ -14,9 +14,8 @@ console.log(areaRetangulo(6,3))
 function areaTriangulo(ladoBase, ladoAltura){
     return ladoBase*ladoAltura/2;
 }
-console.log(media(1,2,3));
 let media=function(valor1, valor2, valor3){
     return (valor1+valor2+valor3)/3;
 }
-let media2=parseInt(prompt('Qual as suas notas?'));
+let nome=(prompt('Qual as suas notas?'));
 document.write(media2)
