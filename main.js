@@ -10,9 +10,11 @@ console.log(areaQuadrado(6))
 function areaRetangulo(numero3, numero4){
     return numero3*numero4;
 }
+console.log(areaRetangulo(6,3))
 function areaTriangulo(ladoBase, ladoAltura){
     return ladoBase*ladoAltura/2;
 }
+console.log(areaTriangulo(2,4))
 let media=function(valor1, valor2, valor3){
     return (valor1+valor2+valor3)/3;
 }
