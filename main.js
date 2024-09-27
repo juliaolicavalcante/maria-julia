@@ -8,6 +8,6 @@ function areaRetangulo(numero3, numero4){
     return numero3*numero4;
 }
 
-function areaQuadrado(numero5){
+function areaQuadrado(ladoBase){
     return numero5**2
 }
