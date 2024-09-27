@@ -21,4 +21,4 @@ let media=function(valor1, valor2, valor3){
     return (valor1+valor2+valor3)/3;
 }
 let media2=parseInt(prompt('Qual as suas notas?'));
-document.write(media)
+document.write(media2)
