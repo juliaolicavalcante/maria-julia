@@ -17,5 +17,4 @@ function areaTriangulo(ladoBase, ladoAltura){
 let media=function(valor1, valor2, valor3){
     return (valor1+valor2+valor3)/3;
 }
-let notas= media(prompt('Qual as suas notas?'));
-document.write(notas)
+let notas=parseInt(prompt('Qual a sua notas?'))
