@@ -28,5 +28,5 @@ let estados = ['Acre', 'Alagoas', 'Amapá', 'Amazonas', 'Bahia', 'Ceará', 'Dist
 let i = 0;
 while(i<11){
     console.log(i),
-    i=i+1
+    i++;
 }
