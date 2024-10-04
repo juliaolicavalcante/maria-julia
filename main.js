@@ -34,5 +34,5 @@ let estados = ['Acre', 'Alagoas', 'Amapá', 'Amazonas', 'Bahia', 'Ceará', 'Dist
 
 for (let j = 0; j < estados.length; j++) {
     console.log(j),
-    console.log(estados[j])
+    document.write(estados[j])
 }
