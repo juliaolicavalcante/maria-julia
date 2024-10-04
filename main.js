@@ -37,5 +37,5 @@ let estados = ['Acre', 'Alagoas', 'Amapá', 'Amazonas', 'Bahia', 'Ceará', 'Dist
 //     console.log(estados[j])
 // }
 let idade = parseInt(prompt('qual sua idade?'))
-if (idade > 17) { console.log('pode dirigir') }
-else { console.log('Ilegal dirigir');}
+if (idade > 17) { document.write('pode dirigir') }
+else { document.write('Ilegal dirigir');}
